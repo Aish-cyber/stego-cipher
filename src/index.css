@@ -2,10 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-/* You can also add this to make the background extra dark globally */
+
 body {
   margin: 0;
-  background-color: #020617; /* slate-950 */
+  background-color: #020617; 
 }
 
 code {
